@@ -1,0 +1,9 @@
+#Drive Straight from Starting Area
+
+WAIT_FOR_PID_RESET
+
+DRIVE_STRAIGHT 117 6000
+
+WAIT 1000
+
+STOP_ALL

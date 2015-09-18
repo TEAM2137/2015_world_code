@@ -1,0 +1,9 @@
+#Drive Straight from Voldemort to Auto Zone
+
+WAIT_FOR_PID_RESET
+
+DRIVE_STRAIGHT 72 6000
+
+WAIT 1000
+
+STOP_ALL

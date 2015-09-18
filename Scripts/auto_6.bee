@@ -1,0 +1,18 @@
+#Grab Container w/ Tape Measure
+#11" for Robot
+#53" for LandFill
+#15" for Halfway onto step
+
+MOVE_TAPE_MEASURE 70
+
+WAIT 1000
+
+DRIVE_STRAIGHT 72 6000
+
+WAIT 250
+
+MOVE_TAPE_MEASURE 5
+
+WAIT 2000
+
+STOP_ALL

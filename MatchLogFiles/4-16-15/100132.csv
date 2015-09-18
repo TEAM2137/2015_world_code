@@ -1,0 +1,1 @@
+Time,RobotMode,AutoToRun,LoopTime,BatteryVoltage,Gyro,LeftMotor,LeftEncoder,RightMotor,RightEncoder,PIDTarget,PIDCurrent,PIDINPosition,ElevatorMotorValue,ElevatorAmperage,TopOvertravel,ButtomOvertravel,PIDCurrentState,AutoStackState,GripperState,CompressorStatus,CompressorAmperage, ErrorStatus, ErrorCode, ErrorSource

@@ -1,0 +1,5 @@
+#Stop All
+
+WAIT_FOR_PID_RESET
+
+STOP_ALL

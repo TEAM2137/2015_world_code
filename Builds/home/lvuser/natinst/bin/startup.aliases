@@ -1,0 +1,11 @@
+[My Computer]
+My Computer="127.0.0.1"
+
+[roboRIO]
+roboRIO="172.22.11.2"
+
+[RT roboRIO Target]
+RT roboRIO Target="172.22.11.2"
+
+[Target]
+Target="localhost"

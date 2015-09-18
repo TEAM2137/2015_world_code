@@ -1,0 +1,9 @@
+#Grab with Jaws and Drive Back
+
+WAIT_FOR_PID_RESET
+
+SET_ROLLER_ARMS 1
+
+DRIVE_STRAIGHT -93 6000
+
+STOP_ALL

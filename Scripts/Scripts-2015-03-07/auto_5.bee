@@ -1,0 +1,21 @@
+#Can + Tote Set
+#Grab Container w/ Tape Measure
+#11" for Robot
+#53" for LandFill
+#15" for Halfway onto step
+
+WAIT_FOR_PID_RESET
+
+MOVE_TAPE_MEASURE 79
+
+WAIT 1000
+
+DRIVE_STRAIGHT 60 6000
+
+WAIT 250
+
+SET_TAPE_MEASURE_SPEED -35
+
+WAIT 2000
+
+STOP_ALL
